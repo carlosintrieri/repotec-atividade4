@@ -44,6 +44,8 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+ou
+npm start
 ```
 
 O aplicativo estará disponível em `http://localhost:5173`
